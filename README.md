@@ -53,15 +53,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FajarFarel&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarFarel&layout=compact&theme=tokyonight&cache_seconds=86400)
-
----
-
 ## 🌍 Connect With Me
-- 📫 Email: farelparjo@email.com
+- [![Email](https://img.shields.io/badge/Email-fajarfarel@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farelparjo@email.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-%40andhikaaa.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andhikaaa.404)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287758568886)
 
