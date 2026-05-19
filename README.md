@@ -1,36 +1,43 @@
 # Yo 👋, I'm Fajar Farel
 
-🚀 Full-stack developer with growing interest in AI  
-💻 Building web, mobile, and intelligent systems  
-🧠 Currently diving into AI modeling & automation  
+🚀 Full-stack developer focused on building intelligent and interactive systems  
+💻 Working across web, mobile, and backend  
+🤖 Currently diving into AI modeling & automation  
 
 ---
 
 ## 🔥 About Me
-- ⚡ Almost full-stack developer (frontend, backend, mobile)  
+- ⚡ Full-stack developer (frontend, backend, mobile)  
 - 🤖 Exploring AI & machine learning  
-- 🧩 Love building real-world and scalable projects  
-- 🎯 Goal: become a developer who builds smart systems  
+- 🎮 Interested in interactive systems & game development  
+- 🎯 Goal: build scalable and intelligent applications  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⚙️ Supporting Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Tools & IDEs
+### ⚡ Technologies
+- REST API  
+- AJAX  
+- Basic backend architecture  
+
+### 🛠 Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
@@ -44,21 +51,22 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I Build
 - 🌐 Full-stack web applications  
 - 📱 Mobile apps (Flutter / Android)  
-- 🤖 AI-based projects & experiments  
+- 🤖 AI-based systems & automation  
+- 🎮 Interactive apps & simple games  
 
 ---
 
 ## 🌍 Connect With Me
-- [![Email](https://img.shields.io/badge/Email-farelparjo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farelparjo@email.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-%40andhikaaa.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andhikaaa.404)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287758568886)
+[![Email](https://img.shields.io/badge/Email-farelparjo@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farelparjo@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40andhikaaa.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andhikaaa.404)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287758568886)
 
 ---
 
 ## ⚡ Fun Fact
-> Ngoding fullstack ✔️  
-> Ngulik AI ✔️  
-> Tidur ❌ (optional 😭)
+> Build system ✔️  
+> Learn AI ✔️  
+> Sleep ❌ (optional 😭)
