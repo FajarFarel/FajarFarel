@@ -54,9 +54,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FajarFarel&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FajarFarel&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarFarel&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FajarFarel&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
