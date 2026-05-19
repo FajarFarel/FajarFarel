@@ -1,16 +1,71 @@
-## Hi there 👋
+# Yo 👋, I'm Fajar Farel
 
-<!--
-**FajarFarel/FajarFarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer with growing interest in AI  
+💻 Building web, mobile, and intelligent systems  
+🧠 Currently diving into AI modeling & automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- ⚡ Almost full-stack developer (frontend, backend, mobile)  
+- 🤖 Exploring AI & machine learning  
+- 🧩 Love building real-world and scalable projects  
+- 🎯 Goal: become a developer who builds smart systems  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- JavaScript  
+- Python  
+- Java  
+- C  
+- PHP  
+- Dart  
+- Kotlin  
+- HTML & CSS  
+
+### ⚙️ Frameworks & Technologies
+- REST API  
+- AJAX  
+- Basic backend architecture  
+- AI / Machine Learning (beginner → growing)  
+
+### 🛠 Tools & IDEs
+- VS Code  
+- IntelliJ IDEA  
+- Android Studio  
+
+---
+
+## 🤖 AI Journey
+- 📚 Learning machine learning fundamentals  
+- 🧠 Exploring AI modeling & data processing  
+- ⚙️ Interested in automation & intelligent systems  
+
+---
+
+## 🚀 What I'm Working On
+- 🌐 Full-stack web applications  
+- 📱 Mobile apps (Flutter / Android)  
+- 🤖 AI-based projects & experiments  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+- 📫 Email: your@email.com  
+
+---
+
+## ⚡ Fun Fact
+> Ngoding fullstack ✔️  
+> Ngulik AI ✔️  
+> Tidur ❌ (optional 😭)
