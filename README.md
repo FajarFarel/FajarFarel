@@ -62,7 +62,7 @@
 
 ## 🌍 Connect With Me
 - 📫 Email: farelparjo@email.com
-- [![Instagram](https://img.shields.io/badge/Instagram-%40username_lo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andhikaaa.404)
+- [![Instagram](https://img.shields.io/badge/Instagram-%40andhikaaa.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andhikaaa.404)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287758568886)
 
 ---
